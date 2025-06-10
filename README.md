@@ -148,4 +148,49 @@ langBtn.addEventListener("click", () => {
   currentLang = currentLang === "en" ? "ht" : "en";
   searchInput.placeholder = currentLang === "en" ? "Search for anything..." : "Rechèch nenpòt bagay...";
   langBtn.textContent = currentLang === "en" ? "Kreyòl" : "English";
-});
+});<div class="gcse-search"></div><head>
+  <meta charset="UTF-8" />
+  <title>Wewe Sass Research</title>
+  <script async src="https://cse.google.com/cse.js?cx=b331104695f1a470f"></script>
+</head>
+<body>
+  <h1>Welcome to Wewe Sass Research</h1>
+  <input type="text" id="searchInput" placeholder="Rechèch..." />
+  <button onclick="startSearch()">Rechèch</button>
+
+  <!-- Rezilta Google CSE -->
+  <div class="gcse-search"></div>
+</body><script async src="https://cse.google.com/cse.js?cx=b331104695f1a470f"></script><body>
+  <h1>Welcome to Wewe Sass Research</h1>
+  
+  <input type="text" id="searchInput" placeholder="Rechèch...">
+  <button onclick="startSearch()">Rechèch</button>
+
+  <!-- Moun ap wè rezilta rechèch yo la -->
+  <div class="gcse-search"></div>
+</body><body>
+  <h1>Welcome to Wewe Sass Research</h1>
+  
+  <input type="text" id="searchInput" placeholder="Rechèch...">
+  <button onclick="startSearch()">Rechèch</button>
+
+  <!-- Moun ap wè rezilta rechèch yo la -->
+  <div class="gcse-search"></div>
+</body><!-- CSE Script -->
+<script async src="https://cse.google.com/cse.js?cx=b331104695f1a470f"></script>
+<div class="gcse-search"></div><div class="help">
+    <h3>❓ Bezwen Èd?</h3>
+    <button class="button" onclick="alert('Tanpri dekri pwoblèm ou a pou AI asistans lan ka ede.')">Klike pou èd</button>
+</div><div class="help">
+    <h3>❓ Bezwen Èd?</h3>
+    <button class="button" onclick="alert('Tanpri dekri pwoblèm ou a pou AI asistans lan ka ede.')">Klike pou èd</button>
+  </div>
+
+  <!-- Google Custom Search -->
+  <div class="product">
+    <h3>🔎 Rechèch sou entènèt (CSE)</h3>
+    <script async src="https://cse.google.com/cse.js?cx=b331104695f1a470f"></script>
+    <div class="gcse-search"></div>
+  </div>
+
+
